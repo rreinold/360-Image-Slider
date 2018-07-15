@@ -2,7 +2,7 @@
 
 360 Image slider of IoT Chemical Handling Robot
 
-![](assets/img/contact-sep.jpg)
+![](http://robreinold.com/assets/img/contact-sep.jpg)
 
 # Credit
 The 360 Image Slider is a experimental project, created by Róbert Pataki for a JavaScript tutorial for .net Magazine (issue #224).
