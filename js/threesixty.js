@@ -135,7 +135,9 @@ $(document).ready(function () {
 		// Sets the "ready" variable to true, so the app now reacts to user interaction 
 		ready = true;
 		// Sets the endFrame to an initial value...
-		endFrame = -720;
+		// positive value is spin finish to start
+		// negative value is spin start to finish, then one more to loop
+		endFrame = 720;
 		// ...so when the animation renders, it will initially take 4 complete spins.
 		if(!demoMode) {
 			refresh();
