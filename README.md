@@ -1,11 +1,11 @@
 # 360 Image Slider
 
-The 360 Image Slider was a experimental project, which I worked on when I was writing a javascript tutorial for .net Magazine (issue #224).
-Luckily the tutorial was pretty well received, so I decided to make it open source, and create a git repository to allow others to collaborate and help to make it awesome :)
+360 Image slider of IoT Chemical Handling Robot
 
-## Credits
+![](assets/img/contact-sep.jpg)
 
-The 360 Image Slider was originally created by Róbert Pataki for a JavaScript tutorial for .net Magazine (issue #224).
+# Credit
+The 360 Image Slider is a experimental project, created by Róbert Pataki for a JavaScript tutorial for .net Magazine (issue #224).
 
 ## License
 
